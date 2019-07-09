@@ -1,4 +1,8 @@
 {
-  "data": [{"hostname": "test1", "mgmt_ip": "1.1.1.1", "device_type": "cisco-nx3k"}],
-  "status": "success"
+	"data": [{
+		"hostname": "test1",
+		"mgmt_ip": "1.1.1.1",
+		"device_type": "cisco-nx3k"
+	}],
+	"status": "success"
 }
